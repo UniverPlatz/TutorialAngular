@@ -4,6 +4,9 @@ import { Component } from '@angular/core';
     selector: 'my-app',
     template: `
                 <my-employee></my-employee>
+                <br/>
+                <br/>
+               <list-employee></list-employee>
               `
     //template: ` <div>
     //                  <h1>{{pageHeader}}</h1>
